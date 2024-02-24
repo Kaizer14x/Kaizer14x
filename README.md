@@ -36,7 +36,7 @@
 
 ###
 
-<script src="https://tryhackme.com/badge/1217450"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Kaizer3m.png" alt="TryHackMe">
 
 <h4 align="left">- 🌱 I’m currently learning Cryptography & Golang.</h4>
 
