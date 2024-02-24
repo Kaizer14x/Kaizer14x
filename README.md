@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h3 align="center">A Cyber Security practitionner 🦅 and a System's Design Lover 🐧<br>Intersted in cryptography, CTI 🕵️ and BlueTeaming. 🛡️ <br><br>Back-end/Database Developer for fun. 🎯</h3>
+<h3 align="center">A Cyber Security practitionner 🦅 and a System's Design Lover 🐧<br>Interested in cryptography, CTI 🕵️ and BlueTeaming. 🛡️ <br><br>Back-end/Database Developer for fun. 🎯</h3>
 
 ###
 
