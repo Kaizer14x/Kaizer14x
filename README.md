@@ -36,6 +36,8 @@
 
 ###
 
+<script src="https://tryhackme.com/badge/1217450"></script>
+
 <h4 align="left">- 🌱 I’m currently learning Cryptography & Golang.</h4>
 
 ###
