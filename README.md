@@ -1,12 +1,7 @@
 <br clear="both">
 
-<h3 align="center">A Cyber Security practitionner 🦅 and a System's Design Lover 🐧<br>Interested in cryptography, CTI , OSINT 🕵️ and BlueTeaming. 🛡️ <br><br>Back-end/Database Developer for fun. 🎯</h3>
+<h3 align="center">A Cyber Security practitionner 🦅 and a System's Design Lover 🐧<br> Aspiring BlueTeamer. 🛡️ <br><br>Developer/DevOps for fun. 🎯</h3>
 
-###
-
-<img align="right" height="150" src="https://i.gifer.com/4NAq.gif"  />
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kaizer14x&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
